@@ -1,0 +1,19 @@
++--+------------------------------------------------+---------------+----------+-------------+------+-----+--------+
+|id|nombre                                          |plataforma     |genero    |fecha_estreno|precio|stock|unidades|
++--+------------------------------------------------+---------------+----------+-------------+------+-----+--------+
+|1 |Evil Dead: The Game                             |PC             |Accion    |13-05-2022   |39.95 |1    |50      |
+|2 |Trek to Yomi                                    |PS5            |Accion    |05-05-2022   |19.99 |1    |30      |
+|3 |King Arthur: Knight's Tale                      |PC             |Rol       |26-04-2022   |44.99 |0    |0       |
+|4 |Eiyuden Chronicles: Rising                      |PS5            |Estrategia|10-05-2022   |14.99 |0    |0       |
+|5 |Chaos Gate - Daemonhunters                      |PC             |Rol       |10-05-2022   |14.99 |1    |10      |
+|6 |Teenage Mutant Ninja Turtles: Shredder's Revenge|PS4            |Accion    |13-06-2022   |54.99 |1    |10      |
+|7 |Elden Ring                                      |PS5            |Rol       |25-02-2022   |54.99 |1    |4       |
+|8 |Thymesia                                        |PC             |Rol       |09-08-2022   |24.99 |0    |0       |
+|9 |Dune: Spice Wars                                |PC             |Estrategia|26-04-2022   |21.69 |1    |14      |
+|10|Postal 4                                        |PC             |Acción    |20-04-2022   |12.69 |1    |2       |
+|11|Nintendo Switch Sports                          |Nintendo Switch|Deportes  |29-04-2022   |29.99 |1    |5       |
+|12|JoJo's Bizarre Adventure All Star Battle R      |PS5            |Accion    |01-04-2022   |79.99 |0    |0       |
+|13|Evil Dead: The Game                             |Nintendo Switch|Accion    |13-05-2022   |39.95 |1    |20      |
+|14|Loot River                                      |PC             |Accion    |03-05-2022   |14.99 |1    |8       |
+|15|Rogue Legacy 2                                  |PC             |Accion    |28-04-2022   |27.42 |0    |0       |
++--+------------------------------------------------+---------------+----------+-------------+------+-----+--------+
